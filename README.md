@@ -1,6 +1,6 @@
 🌍 Site de Viagens
 
-Um site de viagens desenvolvido no Projeto Desenvolve, utilizando Python, HTML e CSS.
+Um site de viagens desenvolvido no Projeto Desenvolve, utilizando Python, HTML, JAVASCRIPT e CSS.
 
 Este projeto foi realizado em grupo e permite que você:
 
